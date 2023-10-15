@@ -6,3 +6,4 @@
 <hr>
 
 - English
+- Francais
