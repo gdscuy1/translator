@@ -8,4 +8,5 @@
 - English
 - Francais
 - Deutsch
+- Italian
 - Japanese
