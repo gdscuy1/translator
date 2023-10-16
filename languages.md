@@ -9,3 +9,4 @@
 - Francais
 - Deutsch
 - Italian
+- Japanese
