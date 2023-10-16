@@ -8,3 +8,4 @@
 - English
 - Francais
 - Deutsch
+- Japanese
