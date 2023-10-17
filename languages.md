@@ -11,3 +11,4 @@
 - Italian
 - Japanese
 - catalan
+- estonian
