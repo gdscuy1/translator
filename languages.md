@@ -10,3 +10,4 @@
 - Deutsch
 - Italian
 - Japanese
+- catalan
