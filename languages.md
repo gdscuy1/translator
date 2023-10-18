@@ -12,3 +12,4 @@
 - Japanese
 - catalan
 - estonian
+- Spanish
