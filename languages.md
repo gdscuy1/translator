@@ -13,3 +13,4 @@
 - catalan
 - estonian
 - Korean
+- Chinese
