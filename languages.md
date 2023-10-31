@@ -12,4 +12,5 @@
 - Japanese
 - catalan
 - estonian
+- Korean
 - Chinese
